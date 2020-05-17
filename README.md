@@ -1,4 +1,11 @@
-.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Zdjęcie](./images/run.jpg)
+
+# React TODO lista
+
+
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
