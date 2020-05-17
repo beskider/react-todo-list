@@ -1,4 +1,4 @@
-![Zdjęcie](./images/run.jpg)
+![Zdjęcie](./images/todo.jpg)
 
 # React TODO lista
 
