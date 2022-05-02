@@ -1,6 +1,6 @@
-![Zdjęcie](./images/todo.jpg)
-
 # React lista TODO
+
+![Overview](./images/screenshot.jpg)
 
 Prosta aplikacja webowa oparta na bibliotece [React](https://pl.reactjs.org/) do zarządzania listą rzeczy do zrobienia (TODO). Działająca aplikacja umieszczona pod adresem https://beskider.github.io/react-todo-list
 
@@ -20,6 +20,8 @@ Prosta aplikacja webowa oparta na bibliotece [React](https://pl.reactjs.org/) do
 ***
 
 # React TODO list
+
+![Overview](./images/screenshot.jpg)
 
 Simple [React](https://pl.reactjs.org/) webapp to manage the TODO tasks. Working copy at https://beskider.github.io/react-todo-list
 
